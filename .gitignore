@@ -1,0 +1,6 @@
+st
+*.orig
+*.reg
+*.o
+*.rej
+
